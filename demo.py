@@ -1,4 +1,4 @@
 import math
 import sys
-import print
+import printfunction
 
